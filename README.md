@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gkpc2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZCTaOhY1q8pVS1wSxR54GXcO1aEvbKJ5/view?usp=sharing](https://drive.google.com/file/d/1ZCTaOhY1q8pVS1wSxR54GXcO1aEvbKJ5/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/FTyQD](https://shorturl.at/FTyQD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
