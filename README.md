@@ -1,19 +1,4 @@
-<style>
-    /* Ensure the image container is centered */
-    .image-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      padding: 20px; /* Optional, for some spacing around the image */
-    }
 
-    /* Make the image responsive */
-    .image-container img {
-      max-width: 100%;
-      height: auto;
-    }
-  </style>
-</head>
  
   <div class="image-container">
     <img src="3.png" alt="Responsive Image">
